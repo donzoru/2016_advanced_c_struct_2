@@ -8,7 +8,7 @@ typedef struct lis{
 }li;
 int main()
 {
-    li a[3]={"zhangxiao",0,"wangman",0,"lisheng",0},tmp;
+    li a[3]={{"zhangxiao",0},{"wangman",0},{"lisheng",0}},tmp;
     int i,m,j,k;
     char str[20];
     for(i=0;i<10;i++){

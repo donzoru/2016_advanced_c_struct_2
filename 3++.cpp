@@ -4,7 +4,7 @@
 using namespace std;
 int main(){
     int i;
-    double gr,xs,yg,sum=0,k=0,j;
+    double gr,xs,yg,sum=0,k=0,j=0;
     double sl[3];
     for(i=0;i<3;i++){
         cin>>gr>>xs>>yg;
